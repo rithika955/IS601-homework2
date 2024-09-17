@@ -1,3 +1,7 @@
+## Please ignore the calculator and tests directories in the main directory. I'm unable to delete these directories.
+## Only consider the files and the directories in the 'projectsetup' directory.
+ 
+
 # Project Install Instructions
 
 ## Install
